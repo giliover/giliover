@@ -2,7 +2,7 @@
 
 
 ### My full name is Carlos Vergilio 💖
-### I'm Brasil 🇦🇴
+### I'm Brasil 
 
 
 ### About
