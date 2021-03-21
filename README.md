@@ -9,7 +9,6 @@
 
 -  **University:** Universidade Estadual do Norte Fluminense Darcy Ribeiro 🧘‍♀️ 
 -  **Course:** Computer Science 💻
--  **Learning :** C, Javascript and Web Development, ReactJs, React Native, NodeJs, NextJs, TypeScript  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 -  **Native language:** Portuguese but i'm learning English :face:
 -  **Fact :** Practice leads to perfection. :heart:
 
