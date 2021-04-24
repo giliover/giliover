@@ -19,7 +19,7 @@
   ### Follow me, at:
   
  - **Linkedin :** [Carlos Alberto](https://www.linkedin.com/in/gilioverr) 
- - **E-mail :** [giliover@taragatech.com] 💖
+ - **E-mail :** [giliover@hotmail.com] 💖
 
 
 ## Languages and Tools 
