@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### My full name is Carlos Vergilio 💖
+### My full name is Carlos Alberto Vergilio de Azevedo Júnior 💖
 ### I'm from Brasil 
 
 
@@ -9,7 +9,7 @@
 
 -  **University:** Universidade Estadual do Norte Fluminense Darcy Ribeiro 🧘‍♀️ 
 -  **Course:** Computer Science 💻
--  **Native language:** Portuguese but i'm learning English :face:
+-  **Native language:** Portuguese but i'm learning English 
 -  **Fact :** Practice leads to perfection. :heart:
 
 
