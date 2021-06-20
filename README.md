@@ -37,7 +37,6 @@
 <br>
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@giliover-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/giliover)](https://twitter.com/giliover) 
 [![Instagram Badge](https://img.shields.io/badge/-@giliover-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/giliover/)](https://www.instagram.com/giliover/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Vergilio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giliover/)](https://www.linkedin.com/in/giliover/) 
 [![E-mail Badge](https://img.shields.io/badge/-giliover@hotmail.com-6633cc?style=flat-square&logo=email&logoColor=white&link=mailto:giliover@hotmail.com)](mailto:giliover@hotmail.com)
