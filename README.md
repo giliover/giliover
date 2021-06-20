@@ -1,6 +1,4 @@
 # Hey 👋
-### Hi there 👋
-
 
 ### My full name is Carlos Alberto Vergilio de Azevedo Júnior 💖
 ### I'm from Brasil 
