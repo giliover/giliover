@@ -1,3 +1,4 @@
+# Hey 👋
 ### Hi there 👋
 
 
@@ -15,12 +16,11 @@
 
 ⭐️ From
   Github : [Carlos Alberto](https://github.com/giliover) 
-  
-  ### Follow me, at:
-  
- - **Linkedin :** [Carlos Alberto](https://www.linkedin.com/in/gilioverr) 
- - **E-mail :** [giliover@hotmail.com] 💖
-
+<div style="display: inline-block">
+  <a href="https://github.com/giliover">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giliover&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giliover&layout=compact&langs_count=8&theme=midnight-purple"/>
+<div>
 
 ## Languages and Tools 
 
@@ -34,4 +34,12 @@
   <img src="https://media.giphy.com/media/enF8vwzq7MbFFti2k7/giphy.gif" width="65">  
   
  
-</p>
+</p> 
+
+<br>
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@giliover-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/giliover)](https://twitter.com/giliover) 
+[![Instagram Badge](https://img.shields.io/badge/-@giliover-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/giliover/)](https://www.instagram.com/giliover/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Vergilio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giliover/)](https://www.linkedin.com/in/giliover/) 
+[![E-mail Badge](https://img.shields.io/badge/-giliover@hotmail.com-6633cc?style=flat-square&logo=email&logoColor=white&link=mailto:giliover@hotmail.com)](mailto:giliover@hotmail.com)
