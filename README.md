@@ -1,6 +1,6 @@
 # Hey 👋
 
-### My full name is Carlos Alberto Vergilio de Azevedo Júnior 💖
+### My name is Carlos Vergilio 
 ### I'm from Brasil 
 
 
@@ -11,14 +11,6 @@
 -  **Native language:** Portuguese but i'm learning English 
 -  **Fact :** Practice leads to perfection. :heart:
 
-
-⭐️ From
-  Github : [Carlos Alberto](https://github.com/giliover) 
-<div style="display: inline-block">
-  <a href="https://github.com/giliover">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giliover&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giliover&layout=compact&langs_count=8&theme=midnight-purple"/>
-<div>
 
 ## Languages and Tools 
 
@@ -40,7 +32,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-@giliover-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/carlosvergilio_/)](https://www.instagram.com/carlosvergilio_/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Vergilio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giliover/)](https://www.linkedin.com/in/giliover/) 
 [![E-mail Badge](https://img.shields.io/badge/-giliover@hotmail.com-6633cc?style=flat-square&logo=email&logoColor=white&link=mailto:giliover@hotmail.com)](mailto:giliover@hotmail.com)
-<br>
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%giliover%2F" width="100">  
-  
+
  
